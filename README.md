@@ -4,7 +4,7 @@
 ### Centro de Procesos Industriales y Construcción
 
 ---
-![POKEMON](https://tinyurl.com/2s49np8z)
+![POKEMON](https://tinyurl.com/yr8bbf8r)
 
 | ID | THEME | Description                            |
 |----|-------|---                                     |
