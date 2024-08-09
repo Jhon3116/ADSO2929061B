@@ -1,0 +1,10 @@
+p.title {
+    background-color: indigo;
+    border-radius: 1rem 0 1rem 0;
+    color: white;
+    font-size: 3rem;
+    padding: 1rem;
+    text-align: center;
+    position: relative;
+    top: 5px;
+}
